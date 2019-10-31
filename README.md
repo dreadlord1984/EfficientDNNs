@@ -36,7 +36,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
 - 2015.11-[Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
 - 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/abs/1512.09194)
-- 2016-ICLRb-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+- 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) (best paper!)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
@@ -53,6 +53,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-NIPS-[Memory-Efficient Backpropagation Through Time](http://papers.nips.cc/paper/6220-memory-efficient-backpropagation-through-time)
 - 2016-NIPS-[PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions](http://papers.nips.cc/paper/6463-perforatedcnns-acceleration-through-elimination-of-redundant-convolutions)
 - 2016-NIPS-[LightRNN: Memory and Computation-Efficient Recurrent Neural Networks](http://papers.nips.cc/paper/6512-lightrnn-memory-and-computation-efficient-recurrent-neural-networks)
+- 2016-NIPS-[CNNpack: packing convolutional neural networks in the frequency domain](https://papers.nips.cc/paper/6390-cnnpack-packing-convolutional-neural-networks-in-the-frequency-domain.pdf)
 - 2016-NIPSw-[Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
 - 2016-ISCA-[Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf)
 - 2016-ICASSP-[Learning compact recurrent neural networks](https://arxiv.org/abs/1604.02594)
@@ -60,6 +61,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016.03-[Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/abs/1603.08983)
 - 2016.06-[Structured Convolution Matrices for Energy-efficient Deep learning](https://arxiv.org/abs/1606.02407)
 - 2016.06-[Deep neural networks are robust to weight binarization and other non-linear distortions](https://arxiv.org/abs/1606.01981)
+- 2016.06-[Hypernetworks](https://arxiv.org/abs/1609.09106)
 - 2016.07-IHT-[Training skinny deep neural networks with iterative hard thresholding methods](https://arxiv.org/abs/1607.05423)
 - 2016.08-[Recurrent Neural Networks With Limited Numerical Precision](https://arxiv.org/abs/1608.06902)
 - 2016.10-[Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/abs/1610.09650)
@@ -107,7 +109,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICCV-[Performance Guaranteed Network Acceleration via High-Order Residual Quantization](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Performance_Guaranteed_Network_ICCV_2017_paper.html)
 - 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee) [[Code](https://github.com/DNNToolBox/Net-Trim)]
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
-- 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
+- 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon) [[Code](https://github.com/csyhhu/L-OBS)]
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
 - 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning)
 - 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
@@ -134,6 +136,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICML-[On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization](https://arxiv.org/abs/1802.06509)
 - 2018-ICML-[Weightless: Lossy Weight Encoding For Deep Neural Network Compression](https://arxiv.org/abs/1711.04686)
 - 2018-ICMLw-[Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures](https://openreview.net/forum?id=SyPicjbWQ)
+- 2018-ICML-[Understanding and simplifying one-shot architecture search](http://proceedings.mlr.press/v80/bender18a.html)
 - 2018-ICLRo-[Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb)
 - 2018-ICLR-[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://openreview.net/forum?id=HJ94fqApW)
 - 2018-ICLR-[Learning Sparse NNs Through L0 Regularization](https://openreview.net/forum?id=H1Y8hhg0b)
@@ -159,7 +162,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLR-[Multi-scale dense networks for resource efficient image classification](https://arxiv.org/abs/1703.09844)
 - 2018-ICLR-[Efficient Sparse-Winograd Convolutional Neural Networks ](https://openreview.net/forum?id=HJzgZ3JCW)
 - 2018-ICLR-[Compressing Word Embedding via Deep Compositional Code Learning](https://openreview.net/forum?id=BJRZzFlRb&noteId=BJRZzFlRb)
-- 2018-ICLR-[Large scale distributed neural network training through online distillation](https://openreview.net/forum?id=rkr1UDeC-)
 - 2018-ICLR-[Learning Discrete Weights Using the Local Reparameterization Trick](https://openreview.net/forum?id=BySRH6CpW)
 - 2018-ICLR-[Training wide residual networks for deployment using a single bit for each weight](https://openreview.net/forum?id=rytNfI1AZ&noteId=rytNfI1AZ)
 - 2018-ICLR-[The High-Dimensional Geometry of Binary Neural Networks](https://openreview.net/forum?id=B1IDRdeCW&noteId=B1IDRdeCW)
@@ -298,7 +300,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICLR-[Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081)
 - 2019-ICLR-[SNAS: stochastic neural architecture search](https://openreview.net/pdf?id=rylqooRqK7) (SenseTime)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
-- 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) [[Code](https://github.com/bhheo/AB_distillation)]
 - 2019-AAAI-[Balanced Sparsity for Efficient DNN Inference on GPU](https://arxiv.org/abs/1811.00206) [[Code](https://github.com/Howal/balanced-sparsity)]
 - 2019-AAAI-[CircConv: A Structured Convolution with Low Complexity](https://arxiv.org/abs/1902.11268)
 - 2019-AAAI-[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
@@ -348,12 +349,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-ICCV-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
+- 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134) (related: 2019 ICLR Slimmable)
+- 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) [[Code](https://github.com/liuzechun/MetaPruning)]
+- 2019-ICCV-[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
+- 2019-NIPS-[Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
 - 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
-- 2019.03-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) (Face++)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
+- 2019.03-[Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
 - 2019.04-[Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/abs/1904.02422)
 - 2019.04-[Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961)
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
@@ -367,13 +372,19 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.06-[Separable Layers Enable Structured Efficient Linear Substitutions](https://arxiv.org/abs/1906.00859) [[Code](https://github.com/BayesWatch/deficient-efficient)] 
 - 2019.06-[Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256)
 - 2019.06-[A Taxonomy of Channel Pruning Signals in CNNs](https://arxiv.org/abs/1906.04675)
+- 2019.09-[Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/abs/1909.13063)
+
+
+### NAS (Neural Architecture Search)
+- 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
+
 
 
 ### Papers-Advesarial Attacks
 - 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
 
-### Papers-Interpretability
+### Papers-Visualization and Interpretability
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
 - 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
@@ -407,7 +418,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICLR-[Paying more attention to attention: Improving the performance of convolutional neural networksvia attention transfer](http://arxiv.org/abs/1612.03928)
 - 2017-ICLR-[Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf)
 - 2017-CVPR-[A gift from knowledge distillation: Fast optimization, network minimization and transfer learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
+- 2017-BMVC-[Adapting models to signal degradation using distillation](https://arxiv.org/abs/1604.00433)
 - 2017-NIPS-[Sobolev training for neural networks](http://papers.nips.cc/paper/7015-sobolev-training-for-neural-networks.pdf)
+- 2017-NIPS-[Learning efficient object detection models with knowledge distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation)
 - 2017-NIPSw-[Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/abs/1710.07535) [[Code](https://github.com/iRapha/replayed_distillation)]
 - 2017.07-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
@@ -420,33 +433,45 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-AAAI-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
 - 2018-AAAI-[Dynamic deep neural networks: Optimizing accuracy-efficiency trade-offs by selective execution](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16291/16575)
 - 2018-AAAI-[Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/abs/1708.04106)
+- 2018-AAAI-[Adversarial Learning of Portable Student Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16509)
+- 2018-ICLR-[Large scale distributed neural network training through online distillation](https://openreview.net/forum?id=rkr1UDeC-)
+- 2018-CVPR-[Deep mutual learning](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.html)
 - 2018-ICML-[Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf)
 - 2018-IJCAI-[Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification](https://arxiv.org/abs/1804.10069)
+- 2018-ECCV-[2018-ECCV-Learning deep representations with probabilistic knowledge transfer](http://openaccess.thecvf.com/content_ECCV_2018/html/Nikolaos_Passalis_Learning_Deep_Representations_ECCV_2018_paper.html) [[Code](https://github.com/passalis/probabilistic_kt)]
+- 2018-ECCV-[Graph adaptive knowledge transfer for unsupervised domain adaptation](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.html)
+- 2018-SIGKDD-[Towards Evolutionary Compression](https://www.researchgate.net/profile/Yunhe_Wang3/publication/326502551_Towards_Evolutionary_Compression/links/5b7e9304a6fdcc5f8b5e4fe5/Towards-Evolutionary-Compression.pdf)
 - 2018-NIPS-[KDGAN: knowledge distillation with generative adversarial networks](http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks)
 - 2018-NIPS-[Knowledge Distillation by On-the-Fly Native Ensemble](http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble)
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
-- 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
+- 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) [[Code](https://github.com/bhheo/AB_distillation)]
+- 2019-AAAI-[Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks](https://arxiv.org/abs/1811.02759) [[Code](https://github.com/cardwing/Codes-for-Steering-Control)] 
 - 2019-CVPR-[Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation](http://openaccess.thecvf.com/content_CVPRW_2019/html/CEFRL/Liu_Knowledge_Representing_Efficient_Sparse_Representation_of_Prior_Knowledge_for_Knowledge_CVPRW_2019_paper.html)
 - 2019-CVPR-[Knowledge Distillation via Instance Relationship Graph](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.html)
+- 2019-CVPR-[Variational Information Distillation for Knowledge Transfer](http://openaccess.thecvf.com/content_CVPR_2019/html/Ahn_Variational_Information_Distillation_for_Knowledge_Transfer_CVPR_2019_paper.html)
+- 2019-CVPR-[Learning Metrics from Teachers Compact Networks for Image Embedding](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Learning_Metrics_From_Teachers_Compact_Networks_for_Image_Embedding_CVPR_2019_paper.html) [[Code](https://github.com/yulu0724/EmbeddingDistillation)]
 - 2019-ICCV-[Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682)
 - 2019-ICCV-[Correlation Congruence for Knowledge Distillation](https://arxiv.org/abs/1904.01802)
-- 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186)
+- 2019-ICCV-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186)
+- 2019-ICCV-[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821) [[Code](https://github.com/cardwing/Codes-for-Lane-Detection)]
 - 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
-
 
 ## People (in alphabeta order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
 - [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
+- [Hanting Chen](https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en&oi=ao) @ PKU
 - [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
 - [Mohsen Imani](http://moimani.weebly.com/) @ UCSD
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
+- [Ji Lin](http://linji.me/) @ MIT
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
 - [Pavlo Molchanov](https://scholar.google.com/citations?user=J9PoyoIAAAAJ&hl=en&oi=ao) @ NVIDIA
 - [Song Han](https://songhan.mit.edu/) @ MIT
 - [Wei Wen](http://www.pittnuts.com/) @ Duke
+- [Xiaohan Ding](https://scholar.google.com/citations?user=CIjw0KoAAAAJ&hl=en&oi=sra) @ Tsinghua
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
 - [Yihui He](http://yihui-he.github.io/) @ CMU
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
